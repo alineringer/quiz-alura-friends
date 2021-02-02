@@ -1,0 +1,172 @@
+{
+  "bg": "https://imagens.publico.pt/imagens.aspx/1442474?tp=UH&db=IMAGENS&type=JPG",
+  "title": "Quiz Friends",
+  "description": "Você realmente conhece Friends?",
+  "questions": [
+    {
+      "image": "https://www.abc.net.au/cm/lb/10993750/data/friends-gif-data.gif",
+      "title": "Quais são os nomes dos personagens principais da série?",
+      "description": "Essa é fácil rsrs",
+      "answer": 1,
+      "alternatives": [
+        "Joey, Chandler, Emily, Ross, Rachel e Monica",
+        "Monica, Rachel, Phoebe, Joey, Chandler e Ross",
+        "Emma, Rachel, Monica, Ross, Chandler, Joey e Phoebe"
+        
+      ]
+    },
+    {
+      "image": "https://31.media.tumblr.com/05ddbaf07853aa991e8c6aa4c1641c05/tumblr_mldvc1k1B01r4vnf4o1_500.gif",
+      "title": "Qual era o nome da primeira poltrona de Joey?",
+      "description": "kkkkkk",
+      "answer": 0,
+      "alternatives": [
+        "Rosita",
+        "Mamacita",
+        "Bernardete"
+
+      ]
+    },
+    {
+      "image": "https://img.playbuzz.com/image/upload/ar_1.5,c_pad,f_jpg,b_auto/q_auto:good,f_auto,fl_lossy,w_480,c_limit,dpr_2.5/cdn/ac4bf695-44e0-48d6-8b13-0848302cf118/b2845e23-c0c0-48a9-8ca8-d8f4a9e3d5e4.jpg",
+      "title": "Qual é o nome dos quadros da Phoebe?",
+      "description": "Essa eu caprichei hein ",
+      "answer": 0,
+      "alternatives": [
+        "Gladys e Glannis",
+        "Gladys e Lilly",
+        "Gladys e Carly"
+      ]
+    },
+    {
+      "image": "https://media.tenor.com/images/1805579410daf48cf8fedb8a5dba645d/tenor.gif",
+      "title": "Quais personagens se apaixonaram por Rachel?",
+      "description": "S2",
+      "answer": 0,
+      "alternatives": [
+         "Gunther, Ross e Joey",
+         "Mike, Joey e David",
+         "Ross, Chandler e Mike"
+        ]
+    },
+    {
+      "image": "https://thumbs.gfycat.com/AcademicHappygoluckyCoqui-size_restricted.gif",
+      "title": "Com quem Janice namorou?",
+      "description": "Oh my god ",
+      "answer": 3,
+      "alternatives": [
+        "Ross",
+        "Ninguém", 
+        "Joey",
+        "Chandler"
+
+      ]
+    },
+    {
+      "image": "https://bancodeseries.com.br/images/episodes/thumbs/227188.jpg",
+      "title": "Joey foi fantasiado de que no halloween?",
+      "description": "Muito bom kkkk",
+      "answer": 1,
+      "alternatives": [
+        "Fantasma",
+        "Chandler",
+        "Borboleta",
+        "Gladys"
+        
+        ]
+    },
+    {
+      "image": "https://3.bp.blogspot.com/-_C3m1hWnp_U/WePgtZvM_fI/AAAAAAAAU2o/2yVyNCr6h3IIMlFjqx-UB0hif5JjWE8fACLcBGAs/s640/giphy.gif",
+      "title": "Qual é a profissão de Monica?",
+      "description": "Essa nem eu lembrava haha",
+      "answer": 3,
+      "alternatives": [
+        "Cantora",
+        "Advogada",
+        "Cabeleleira",
+        "Cozinheira"
+
+      ]
+    },
+    {
+      "image": "https://bolhadasello.files.wordpress.com/2014/03/monica-peru.gif",
+      "title": "Quais personagens prenderam a cabeça num peru? Quais são os nomes deles???",
+      "description": "Eita kkk",
+      "answer": 1,
+      "alternatives": [
+         "Monica e Rachel",
+         "Joey e Monica",
+         "Phoebe e Chandler",
+         "Nenhum"
+      ]
+    },
+    {
+      "image": "https://s2.glbimg.com/zvhGOvQyxd3UNwwyFBsN3gia3kU=/e.glbimg.com/og/ed/f/original/2019/01/10/friends.png",
+      "title": "Quem é o pai da filha da Rachel?",
+      "description": "Ownnn",
+      "answer": 0,
+      "alternatives": [
+         "Ross",
+         "Chandler",
+         "Joey",
+         "Gunther"
+      ]
+    },
+    {
+      "image": "https://i.pinimg.com/originals/67/65/0a/67650a71f00d5676d8bdf79fc368a538.gif",
+      "title": "Quem é o ultimo da turma que descobre que Monica e Chandler tem um caso?",
+      "description": "Ah o amor...S2",
+      "answer": 1,
+      "alternatives": [
+         "Phoebe ",
+         "Ross",
+         "Joey",
+         "Rachel"
+      ]
+    },
+    {
+      "image": "https://1.bp.blogspot.com/-uKGaRSzET18/U_U6ZSTqmYI/AAAAAAAAK7Y/AJVgbj_r_Y8/s1600/friends%2B2.gif",
+      "title": "Qual o ano em que a série foi criada?",
+      "description": "Faz um tempinho",
+      "answer": 0, 
+      "alternatives": [
+         "1994",
+         "2006",
+         "1996",
+         "2004",
+         "1997"
+
+      ]
+    },
+    {
+      "image": "https://qph.fs.quoracdn.net/main-qimg-177351fde68e3e686889eed0714e16ce",
+      "title": "Na série, Phoebe têm uma irmã gêmea. Ela foi criada porque Lisa Kudrow Interpretava Ursula em...",
+      "description": "Agora quero ver...",
+      "answer": 3,
+      "alternatives": [
+         "Friends",
+         "Blossom",
+         "How i Met Your Mother",
+         "Mad About You",
+         "Zoey 101"
+      ]
+    }
+  ],
+  "external": [
+    "https://aluraquiz-css.omariosouto.vercel.app/",
+    "https://imersao-react-git-main.alineringer.vercel.app/",
+    "https://random-quiz.joaopaulocampospereira.vercel.app/"
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#2979ff",
+      "secondary": "#000",
+      "light": "#fff",
+      "mainBg": "#171B35",
+      "contrastText": "#FFF",
+      "wrong": "#FF5722",
+      "success": "#4CAF50"
+    },
+    "borderRadius": "4px"
+  }
+}
